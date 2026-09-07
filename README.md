@@ -1,16 +1,36 @@
-## Hi there 👋
+# Sofiane Charifi
 
-<!--
-**sofianecharifi/sofianecharifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en développement **Full Stack** chez **Coda**, passionné par la passerelle entre **développement web** et **DevOps / infrastructure**.
 
-Here are some ideas to get you started:
+Je conçois des applications web complètes, robustes et maintenables, avec une attention particulière portée à l'architecture logicielle, aux environnements Linux et à la conteneurisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Compétences techniques
+
+* **Langages :** JavaScript, PHP, C, SQL
+* **Web & Frameworks :** Node.js, Express, TailwindCSS, HTML5 / CSS3, WordPress
+* **Bases de données :** MySQL, SQLite
+* **DevOps & Sysadmin :** Docker, Linux (Bash, administration système), Git / GitHub, CI/CD
+
+---
+
+### Projet à la une
+
+* **[DockFlow](https://github.com/sofianecharifi)** — Application multiplateforme dédiée à la gestion simplifiée de conteneurs Docker.
+  * **Stack :** Node.js, Express, TailwindCSS, SQLite
+  * **Objectif :** Interface fluide pour le monitoring local et l'orchestration via l'API du démon Docker.
+
+---
+
+### Centres d'intérêt
+
+* **Full Stack & Architecture :** Conception de services modulaires et développement d'APIs performantes.
+* **DevOps & Infrastructure :** Auto-hébergement (homelab), virtualisation, automatisation et environnements Linux.
+* **Nouvelles technologies :** Expérimentations autour de l'IA et intérêt pour le matériel informatique.
+
+---
+
+### Me contacter
+
+* **Email :** [sofiane.charifialaoui@gmail.com](mailto:sofiane.charifialaoui@gmail.com)
