@@ -17,7 +17,7 @@ Je conçois des applications web complètes, robustes et maintenables, avec une 
 
 ### Projet à la une
 
-* **[DockFlow](https://github.com/sofianecharifi)** — Application multiplateforme dédiée à la gestion simplifiée de conteneurs Docker.
+* **[DockFlow](https://github.com/sofianecharifi/dockflow)** — Application multiplateforme dédiée à la gestion simplifiée de conteneurs Docker.
   * **Stack :** Node.js, Express, TailwindCSS, SQLite
   * **Objectif :** Interface fluide pour le monitoring local et l'orchestration via l'API du démon Docker.
 
